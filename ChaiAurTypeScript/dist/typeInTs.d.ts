@@ -1,2 +1,2 @@
 export {};
-//# sourceMappingURL=typeInTs.d.ts.map
+//# sourceMappingURL=typeIntTs.d.ts.map

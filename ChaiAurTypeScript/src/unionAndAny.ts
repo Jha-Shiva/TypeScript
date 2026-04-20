@@ -13,7 +13,7 @@ let orders = ['12', '14', '23', '28', '53'];
 let currentOrder: string | undefined;
 
 for(let order of orders){
-    if(order === '28'){
+    if(order === '280'){
         currentOrder = order;
         break;
     }
